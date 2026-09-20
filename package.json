@@ -1,0 +1,6 @@
+{
+  "name": "chronos-backend",
+  "private": true,
+  "description": "Backend di Chronos e documentazione delle chiamate alle API di Twitch.",
+  "license": "UNLICENSED"
+}

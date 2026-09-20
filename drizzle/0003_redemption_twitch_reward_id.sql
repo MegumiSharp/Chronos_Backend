@@ -1,0 +1,1 @@
+ALTER TABLE "channel_point_redemptions" ADD COLUMN "twitch_reward_id" text NOT NULL;
